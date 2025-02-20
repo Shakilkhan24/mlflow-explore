@@ -54,6 +54,18 @@ mlflow ui
 
 Then, open [http://localhost:5000](http://localhost:5000) in your browser to explore logged experiments.
 
+
+## After the training and monitoring the logs in mlruns directory , 
+## You can load the best or any model from there for inferencing 
+
+```py
+logged_model = 'runs:/bc6c201c2e1d49ec86c97a583ae3cbcc/model'
+# Load model as a PyFuncModel.
+loaded_model = mlflow.pyfunc.load_model(logged_model)
+```
+Then you can you use the loaded model for inferencing on preprocessed test data.
+
+
 ## License
 This project is licensed under the MIT License.
 
