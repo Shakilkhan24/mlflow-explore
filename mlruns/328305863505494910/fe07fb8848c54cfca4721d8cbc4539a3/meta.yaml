@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/MLFLOW_EXPLORE/mlruns/328305863505494910/fe07fb8848c54cfca4721d8cbc4539a3/artifacts
+end_time: 1725600226988
+entry_point_name: ''
+experiment_id: '328305863505494910'
+lifecycle_stage: active
+run_id: fe07fb8848c54cfca4721d8cbc4539a3
+run_name: SVM
+run_uuid: fe07fb8848c54cfca4721d8cbc4539a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725600224240
+status: 3
+tags: []
+user_id: User

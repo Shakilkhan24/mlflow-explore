@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/User/Desktop/MLFLOW_EXPLORE/mlruns/313198974483214955
+creation_time: 1725600332663
+experiment_id: '313198974483214955'
+last_update_time: 1725600332663
+lifecycle_stage: active
+name: XGBoost-Optuna-Hyper-parameters

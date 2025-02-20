@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1725600231533
+current_stage: None
+description: null
+last_updated_timestamp: 1725600231533
+name: Iris-XGBoost
+run_id: aab9544d8b874bb1b259ed7d59877ed5
+run_link: null
+source: file:///C:/Users/User/Desktop/MLFLOW_EXPLORE/mlruns/328305863505494910/aab9544d8b874bb1b259ed7d59877ed5/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/User/Desktop/MLFLOW_EXPLORE/mlruns/328305863505494910/aab9544d8b874bb1b259ed7d59877ed5/artifacts/model
+user_id: null
+version: 1

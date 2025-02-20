@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/MLFLOW_EXPLORE/mlruns/821402284970385508/3ad6fa51de8d41249d9774b22dc8cdf1/artifacts
+end_time: 1725600339706
+entry_point_name: ''
+experiment_id: '821402284970385508'
+lifecycle_stage: active
+run_id: 3ad6fa51de8d41249d9774b22dc8cdf1
+run_name: '16'
+run_uuid: 3ad6fa51de8d41249d9774b22dc8cdf1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725600339666
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1725600226794
+current_stage: None
+description: null
+last_updated_timestamp: 1725600226794
+name: Iris-SVM
+run_id: fe07fb8848c54cfca4721d8cbc4539a3
+run_link: null
+source: file:///C:/Users/User/Desktop/MLFLOW_EXPLORE/mlruns/328305863505494910/fe07fb8848c54cfca4721d8cbc4539a3/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/User/Desktop/MLFLOW_EXPLORE/mlruns/328305863505494910/fe07fb8848c54cfca4721d8cbc4539a3/artifacts/model
+user_id: null
+version: 1

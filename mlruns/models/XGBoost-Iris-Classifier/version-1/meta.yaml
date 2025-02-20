@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1725600344349
+current_stage: None
+description: null
+last_updated_timestamp: 1725600344349
+name: XGBoost-Iris-Classifier
+run_id: bc6c201c2e1d49ec86c97a583ae3cbcc
+run_link: null
+source: file:///C:/Users/User/Desktop/MLFLOW_EXPLORE/mlruns/821402284970385508/bc6c201c2e1d49ec86c97a583ae3cbcc/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/User/Desktop/MLFLOW_EXPLORE/mlruns/821402284970385508/bc6c201c2e1d49ec86c97a583ae3cbcc/artifacts/model
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/MLFLOW_EXPLORE/mlruns/328305863505494910/aab9544d8b874bb1b259ed7d59877ed5/artifacts
+end_time: 1725600231635
+entry_point_name: ''
+experiment_id: '328305863505494910'
+lifecycle_stage: active
+run_id: aab9544d8b874bb1b259ed7d59877ed5
+run_name: XGBoost
+run_uuid: aab9544d8b874bb1b259ed7d59877ed5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725600229076
+status: 3
+tags: []
+user_id: User

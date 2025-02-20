@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/MLFLOW_EXPLORE/mlruns/328305863505494910/34e2db62db8a4d10a63c63f202d1279d/artifacts
+end_time: 1725600229076
+entry_point_name: ''
+experiment_id: '328305863505494910'
+lifecycle_stage: active
+run_id: 34e2db62db8a4d10a63c63f202d1279d
+run_name: Random Forest
+run_uuid: 34e2db62db8a4d10a63c63f202d1279d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725600226997
+status: 3
+tags: []
+user_id: User

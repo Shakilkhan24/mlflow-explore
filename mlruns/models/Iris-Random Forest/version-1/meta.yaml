@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1725600228995
+current_stage: None
+description: null
+last_updated_timestamp: 1725600228995
+name: Iris-Random Forest
+run_id: 34e2db62db8a4d10a63c63f202d1279d
+run_link: null
+source: file:///C:/Users/User/Desktop/MLFLOW_EXPLORE/mlruns/328305863505494910/34e2db62db8a4d10a63c63f202d1279d/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/User/Desktop/MLFLOW_EXPLORE/mlruns/328305863505494910/34e2db62db8a4d10a63c63f202d1279d/artifacts/model
+user_id: null
+version: 1

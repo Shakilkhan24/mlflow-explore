@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/User/Desktop/MLFLOW_EXPLORE/mlruns/821402284970385508
+creation_time: 1725600333269
+experiment_id: '821402284970385508'
+last_update_time: 1725600333269
+lifecycle_stage: active
+name: xgboost_optuna_study
